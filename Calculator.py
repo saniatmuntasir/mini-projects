@@ -17,6 +17,3 @@ while True:
     print("Your Answeer: ", result)
 
 print('Your answer is:',result)
-
-# Operations: '1 for Addition','2 for Substraction','3 for Multiplication','& 4 for Division','5 for result'
-# Enter operation: 2+4+10-4*5
